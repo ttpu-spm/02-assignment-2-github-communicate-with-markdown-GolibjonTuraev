@@ -20,8 +20,4 @@ This assignment introduces you to using Markdown for communication on GitHub thr
    - Put URL of your finished course repo under the section "Course Repository URLs" below
 
 ## Course Repository URLs
-
-_Here you should put the URL of your final repository after finishing the given tutorial_
-
-[<!-- This section will be automatically updated by CI when students complete the course -->
-](https://github.com/GolibjonTuraev/skills-communicate-using-markdown)
+https://github.com/GolibjonTuraev/skills-communicate-using-markdown
